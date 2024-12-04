@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var quest
 const questionsDiv = document.getElementById('questions');
 document.addEventListener('DOMContentLoaded', async function () {
