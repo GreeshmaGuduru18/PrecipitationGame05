@@ -1,0 +1,211 @@
+[
+  {
+    "questionText": "What is the net ionic equation for the reaction of AlCl₃ (aq) with NaOH (aq)?",
+    "options": [
+      "Al³⁺ (aq) + 3 OH⁻ (aq) → AlCl₃ (s)",
+      "Na⁺ (aq) + Cl⁻ (aq) → NaCl (s)",
+      "Al⁺ (aq) + OH⁻ (aq) → AlOH (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 1,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix NaCl (aq) with AgNO₃ (aq)?",
+    "options": [
+      "Ag⁺ (aq) + Cl⁻ (aq) → AgCl (s)",
+      "Na⁺ (aq) + NO₃⁻ (aq) → NaNO₃ (s)",
+      "Ag⁺ (aq) + Cl⁻ (aq) + NO₃⁻ (aq) → AgClNO₃ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 2,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix Cu(NO₃)₂ (aq) with (NH₄)₂S (aq)?",
+    "options": [
+      "Cu²⁺ (aq) + S²⁻ (aq) → CuS (s)",
+      "Cu⁺ (aq) + S²⁻ (aq) → Cu₂S (s)",
+      "2 Cu²⁺ + 2 S²⁻ (aq) → Cu₂S₂ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 3,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix Ba(NO₃)₂ (aq) with K₂CO₃ (aq)?",
+    "options": [
+      "Ba²⁺ (aq) + CO₃²⁻ (aq) → BaCO₃ (s)",
+      "K⁺ (aq) + NO₃⁻ (aq) → KNO₃ (s)",
+      "Ba²⁺ (aq) + 2 K⁺ (aq) → BaK₂ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 4,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix PbCl₂ (aq) with NaS (aq)?",
+    "options": [
+      "Pb²⁺ (aq) + S²⁻ (aq) → PbS (s)",
+      "2 Pb²⁺ (aq) + S²⁻ (aq) + 2 Na⁺ (aq) → Pb₂Na₂S (s)",
+      "2 Na⁺ (aq) + 2 Cl⁻ (aq) → Na₂Cl₂ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 5,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix Fe(NO₃)₂ (aq) and Na₂S (aq)?",
+    "options": [
+      "Fe²⁺ (aq) + S²⁻ (aq) → FeS (s)",
+      "2 Fe²⁺ (aq) + S²⁻ (aq) + 2 NO₃⁻ (aq) → Fe₂S(NO₃)₂ (s)",
+      "Fe²⁺ (aq) + 2 Na⁺ (aq) + 2 S²⁻ (aq) → FeNa₂S₂ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 6,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation for the reaction of Ca(NO₃)₂ (aq) with Na₂SO₄ (aq)?",
+    "options": [
+      "Ca²⁺ (aq) + SO₄²⁻ (aq) → CaSO₄ (s)",
+      "Na⁺ (aq) + NO₃⁻ (aq) → NaNO₃ (s)",
+      "Ca²⁺ (aq) + 4 SO⁻ (aq) → CaSO₄ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 7,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+  {
+    "questionText": "What is the net ionic equation if you mix CaSO₄ (aq) with Na₂CO₃ (aq)?",
+    "options": [
+      "Ca²⁺ (aq) + CO₃²⁻ (aq) → CaCO₃ (s)",
+      "2 Na⁺ (aq) + SO₄²⁻ (aq) → Na₂SO₄ (s)",
+      "Ca⁺ (aq) + CO₃⁻ (aq) → CaCO₃ (s)"
+    ],
+    "correctOption": 1,
+    "questionNumber": 8,
+    "set": 1,
+    "createdAt": "2024-10-22T08:27:42.185Z",
+    "updatedAt": "2024-10-22T08:27:42.185Z"
+  },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "2 KI (aq) + Pb(NO₃)₂ (aq) → PbI₂ (s) + 2 KNO₃ (aq)",
+        "3 CuCl₂ (aq) + 2 Al (s) → 3 Cu (s) + 2 AlCl₃ (aq)",
+        "Fe (s) + 2 HCl (aq) → FeCl₂(aq) + H₂ (g)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 9,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "Pb(NO₃)₂ (aq) + Na₂SO₄ (aq) → 2 NaNO₃ (aq) + PbSO₄ (s)",
+        "NaCl (aq) + NH₄NO₃ (aq) → NaNO₃ (aq) + NH₄Cl (aq)",
+        "Zn (s) + H₂SO₄ (aq) → ZnSO₄ (aq) + H₂ (g)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 10,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "2 H₃PO₄ (aq) + 3 Ca(OH)₂ (aq) → Ca₃(PO₄)₂ (s) + 6 H₂O (l)",
+        "NaNO₃ (aq) + Pb (s) → NaNO₂ (aq) + PbO (s)",
+        "CaCO₃ (s) + 2 HCl (aq) → CaCl₂ (aq) + H₂O (l) + CO₂ (g)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 11,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "2 NaBr (aq) + Hg₂(NO₃)₂ → Hg₂Br₂ (s) + 2 NaNO₃ (aq)",
+        "2 NH₃ (aq) + H₂SO₄ (aq) → (NH₄)₂SO₄ (aq)",
+        "Fe₂O₃ (s) + FeO (s) → Fe₃O₄ (s)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 12,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "NaF (aq) + AgNO₃ (aq) → AgF (s) + NaNO₃ (s)",
+        "CH₄ (g) + 2 O₂ (g) → CO₂ (g) + H₂O (l)",
+        "Zn (s) + S (s) → ZnS (s)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 13,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "PbCl₂ (aq) + 2 NaS (aq) → 2 NaCl (aq) + PbS (s)",
+        "C₂H₄(g)+6HCl(g)→2CHCl₃(g)+4H₂(g)",
+        "2 NaOH(aq)+H₂SO₄(aq)→Na₂SO₄(aq)+2H₂O(l)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 14,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": "2024-10-22T08:27:42.185Z"
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+      "options": [
+        "Zn(NO₃)₂(aq)+2NaOH(aq)→2NaNO₃(aq)+Zn(OH)₂(s)",
+        "2 SO₂(g)+2H₂O(g)→2H₂S(g)+2O₂(g)",
+        "(LiCl)(aq)+(NH₄)_2SO_4(aq)+(NH_4)_2SO_4(aq)+(LiCl)(aq)"
+      ],
+      "correctOption": 1,
+      "questionNumber": 15,
+      "set": 2,
+      "createdAt": "2024-10-22T08:27:42.185Z",
+      "updatedAt": null
+    },
+    {
+      "questionText": "Which of the following is a precipitation reaction?",
+     "options": [
+       "CuCl₂(aq)+2AgNO₃(aq)+Cu(NO₃)_2(aq)+AgCl(s)",
+       "CuSO₄(aq)+Ni(s)+Cu(s)+NiSO_4(aq)",
+       "MgO(s)+CO_2(g)+MgCO_3(s)"
+     ],
+     "correctOption": 1, 
+     "questionNumber":16, 
+     "set":2, 
+     "createdAt":"2024-10-22T08:27:42.185Z", 
+     "updatedAt":"2024-10-22T08:27:42.185Z"
+   }
+   
+]
